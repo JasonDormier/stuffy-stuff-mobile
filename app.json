@@ -1,0 +1,12 @@
+{
+  "name": "stuffy-stuff-mobile",
+  "displayName": "stuffy-stuff-mobile",
+  "expo": {
+    "name": "stuffy-stuff-mobile",
+    "slug": "stuffy-stuff-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
